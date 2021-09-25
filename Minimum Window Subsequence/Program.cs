@@ -15,7 +15,7 @@ namespace Minimum_Window_Subsequence
 				// https://github.com/shehabic/java-algorithms/blob/master/src/solutions/MinWindowSubSequence.java
 				// https://leetcode.com/problems/minimum-window-subsequence/
 				/// <summary>
-				/// 
+				/// method
 				/// </summary>
 				/// <param name="s1"></param>
 				/// <param name="s2"></param>
